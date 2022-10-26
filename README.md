@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @NewNobbie
+- 👀 I’m interested in Python, today I started on this journey of code learning, I will start with Python ))
