@@ -1,0 +1,16 @@
+[
+    {
+    "id": 1,
+    "nombre": "Alejo Duque",
+    "edad": 14,
+    "englishLevel": "A0",
+    "clan": "Van Rossum"
+    },
+    {
+    "id": 2,
+    "nombre": "Kevin Charrasquiel",
+    "edad": 21,
+    "englishLevel": "B2",
+    "clan": "Van Rossum"
+    }
+]
