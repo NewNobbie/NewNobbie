@@ -1,0 +1,22 @@
+#logo{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#buscador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2rem;
+}
+
+#contenido{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+}
