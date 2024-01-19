@@ -44,7 +44,7 @@ function injectingMovies(pelis){
             <div class="card-body">
                 <h5 class="card-title">${Title}</h5>
                 <p class="card-text">${Year}</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="${Poster}" class="btn btn-primary">Go somewhere</a>
             </div>
         </div>
     `
