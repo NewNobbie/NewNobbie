@@ -1,2 +1,6 @@
 - 👋 Hi, I’m @NewNobbie
-- 👀 I’m interested in Python, today I started on this journey of code learning, I will start with Python ))
+- A back-end developer looking to push his limits. 
+- I currently perform best with Java / SpringBoot with approximately 5 months of experience.
+- 👀 I’m interested in back-end Languages like Python & Ruby
+
+{07.10.2024}
